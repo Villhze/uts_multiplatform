@@ -1,6 +1,6 @@
 UTS Mobile Programming
 
-Aplikasi catatan sederhana berbasis Flutter yang memungkinkan pengguna membuat, menyimpan, mengedit, dan menghapus catatan menggunakan file system (dart:io), serta mendukung penambahan hingga 3 gambar pada setiap catatan.
+Disini saya mengambil modul 4 untuk memenuhi Tugas UTS dengan membuat Aplikasi catatan sederhana berbasis Flutter yang memungkinkan pengguna membuat, menyimpan, mengedit, dan menghapus catatan menggunakan file system (dart:io), serta mendukung penambahan hingga 3 gambar pada setiap catatan.
 
 ## 🖼️ App Preview
 
