@@ -43,3 +43,12 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+# Android local properties
+/android/local.properties
+/android/key.properties
+/android/app/local.properties
+/ios/Flutter/Generated.xcconfig
+/ios/Flutter/flutter_export_environment.sh
+/ios/Flutter/Flutter.podspec
+/ios/Flutter/ephemeral/

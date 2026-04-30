@@ -45,5 +45,9 @@
 	<true/>
 	<key>UIApplicationSupportsIndirectInputEvents</key>
 	<true/>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Aplikasi ini membutuhkan akses galeri untuk menambahkan gambar ke catatan.</string>
+	<key>NSCameraUsageDescription</key>
+	<string>Aplikasi ini membutuhkan akses kamera untuk mengambil foto untuk catatan.</string>
 </dict>
 </plist>
