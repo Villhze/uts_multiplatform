@@ -5,7 +5,7 @@ Aplikasi catatan sederhana berbasis Flutter yang memungkinkan pengguna membuat, 
 ## 🖼️ App Preview
 
 | Home Page | Editor Page | Delete Note |
-|:---------:|:-----------:|:---------:|:-----------:|
+|:---------:|:-----------:|:---------:|
 | ![Home](assets/home.png) | ![Editor](assets/editor.png) | ![Delete](assets/delete.png) |
 
 ---
